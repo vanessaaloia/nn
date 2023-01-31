@@ -6,6 +6,7 @@ import PyQt5
 import matplotlib
 #vanessa prova
 def print_hi(name):
+    #modifica 31/1/23
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 

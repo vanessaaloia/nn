@@ -1,2 +1,2 @@
-matplotlib==3.6.3
+pip matplotlib==3.6.3
 PyQt5==5.15.7
